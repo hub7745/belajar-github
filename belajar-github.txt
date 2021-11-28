@@ -1,3 +1,5 @@
 harus bisa github
 repository = folder
 commit = save
+mengerti dan bisa menjalankan github
+nanti belajar kolaborasi dengan org lain
