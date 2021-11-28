@@ -5,3 +5,4 @@ commit = save
 untuk melihat visual, insight - network
 branch = cabang
 merge = menggabungkan
+main = master = utama
