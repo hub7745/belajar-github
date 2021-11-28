@@ -4,3 +4,4 @@ commit = save
 0dc704e2a7bf9b14fd619fd9ab78140ab593b421 = hash
 untuk melihat visual, insight - network
 branch = cabang
+merge = menggabungkan
