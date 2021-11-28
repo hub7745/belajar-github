@@ -1,3 +1,4 @@
+belajar dan memahami istilah2 di github
 repository = folder
 commit = save
 0dc704e2a7bf9b14fd619fd9ab78140ab593b421 = hash
