@@ -2,6 +2,3 @@ repository = folder
 commit = save
 0dc704e2a7bf9b14fd619fd9ab78140ab593b421 = hash
 untuk melihat visual, insight - network
-mengerti dan bisa menjalankan github
-nanti belajar kolaborasi dengan org lain
-belajar mengerti menambah dan mengurangi isi file
