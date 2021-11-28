@@ -1,0 +1,3 @@
+harus bisa github
+repository = folder
+commit = save
