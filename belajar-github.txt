@@ -7,3 +7,4 @@ branch = cabang
 merge = menggabungkan
 main = master = utama
 menambahkan master lebih dari 1
+mark as resolved, bila ada konflik dan berhasil diatasi
