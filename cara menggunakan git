@@ -1,1 +1,35 @@
+ebook pro git
+https://git-scm.com/book/id/v2
+perintah perintah dalam git :
+git
+bagaimana cara menggunakan git
+
+clear
+cara menghilangkan isi
+
+git --version
+untuk mengetahui version git
+
+git init
+untuk menginiaize
+git add
+git status
+git commit
+git config
+git branch
+git help
+
+3 area pada repot git
+working tree
+staging area
+history
+
+pwd
+untuk mengetahui ada di direktori mana
+
+cd
+untuk pindah direktori
+
+ls
+untuk mengetahui isi dari folder
 
